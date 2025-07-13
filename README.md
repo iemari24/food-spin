@@ -1,16 +1,18 @@
-# flutter_application_1
+# Food Spin
 
-A new Flutter project.
+A modern, mobile-friendly meal spinner app made with Flutter.  
+Try the live demo 👉 [food-spin-yummy.netlify.app](https://food-spin-yummy.netlify.app/)
+
+## Features
+- English/Turkish language support
+- Airfryer-friendly, protein-rich meals
+- Responsive, minimal design
+
+## Screenshots
+![app preview](assets/your-screenshot.png)
 
 ## Getting Started
+1. Clone this repo
+2. Run `flutter pub get`
+3. Start with `flutter run` or build web with `flutter build web`
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
